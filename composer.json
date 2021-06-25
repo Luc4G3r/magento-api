@@ -1,0 +1,26 @@
+{
+  "name": "luc4g3r/magento2_api",
+  "description": "Package to test Magento 2 APIs",
+  "authors": [
+    {
+      "name": "Luca Gerhardt",
+      "email": "luc4.g3r@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.0.0",
+    "ext-curl": "*",
+    "ext-json": "*"
+  },
+  "require-dev": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Luc4G3r\\Magento2Api\\": "src/"
+    },
+    "psr-0": {
+      "Luc4G3r\\Magento2Api\\": "src/"
+    }
+  }
+}

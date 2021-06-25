@@ -1,0 +1,17 @@
+{
+  "storeUrl": "",
+  "storeCode": "default",
+  "apiUser": {
+    "username": "",
+    "password": ""
+  },
+  "apiCalls": [
+    {
+      "name": "",
+      "path": "",
+      "requestType": "GET",
+      "postData": {},
+      "getData": {}
+    }
+  ]
+}
